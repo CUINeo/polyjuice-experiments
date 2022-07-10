@@ -1,0 +1,617 @@
+------ Figure 4(a,b) Evaluation Start ------
+tpc-c figure4(a,b) Polyjuice
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=1
+RESULT throughput(393.175),agg_abort_rate(0.114866)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=1
+RESULT throughput(745.452),agg_abort_rate(0.0802412)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=1
+RESULT throughput(420.834),agg_abort_rate(0.105966)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=1
+RESULT throughput(793.86),agg_abort_rate(0.0849875)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=1
+RESULT throughput(434.591),agg_abort_rate(0.144279)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=1
+RESULT throughput(830.566),agg_abort_rate(0.0874389)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=1
+RESULT throughput(602.468),agg_abort_rate(0.106035)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=1
+RESULT throughput(736.816),agg_abort_rate(0.0797571)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=1
+RESULT throughput(772.729),agg_abort_rate(0.103902)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=1
+RESULT throughput(987.426),agg_abort_rate(0.0763429)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=2
+RESULT throughput(1105.48),agg_abort_rate(0.102772)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=2
+RESULT throughput(1396.44),agg_abort_rate(0.0821467)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=2
+RESULT throughput(595.836),agg_abort_rate(0.110959)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=2
+RESULT throughput(822.698),agg_abort_rate(0.0864015)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=2
+RESULT throughput(752.201),agg_abort_rate(0.103822)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=2
+RESULT throughput(1070.86),agg_abort_rate(0.0984393)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=2
+RESULT throughput(920.631),agg_abort_rate(0.112894)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=2
+RESULT throughput(935.772),agg_abort_rate(0.0946093)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=2
+RESULT throughput(895.448),agg_abort_rate(0.0897062)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=2
+RESULT throughput(1004.97),agg_abort_rate(0.102536)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=4
+RESULT throughput(525.005),agg_abort_rate(0.354085)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=4
+RESULT throughput(959.376),agg_abort_rate(0.198371)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=4
+RESULT throughput(424.851),agg_abort_rate(0.485405)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=4
+RESULT throughput(163.563),agg_abort_rate(0.727741)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=4
+RESULT throughput(338.376),agg_abort_rate(0.506505)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=4
+RESULT throughput(286.026),agg_abort_rate(0.559196)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=4
+RESULT throughput(451.961),agg_abort_rate(0.445907)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=4
+RESULT throughput(243.471),agg_abort_rate(0.639251)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=4
+RESULT throughput(318.437),agg_abort_rate(0.561919)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=4
+RESULT throughput(425.651),agg_abort_rate(0.41079)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=8
+RESULT throughput(943.002),agg_abort_rate(0.277184)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=8
+RESULT throughput(1087.91),agg_abort_rate(0.155269)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=8
+RESULT throughput(822.424),agg_abort_rate(0.209523)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=8
+RESULT throughput(649.581),agg_abort_rate(0.333795)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=8
+RESULT throughput(693.924),agg_abort_rate(0.295924)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=8
+RESULT throughput(833.647),agg_abort_rate(0.24241)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=8
+RESULT throughput(1073.75),agg_abort_rate(0.0996441)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=8
+RESULT throughput(864.617),agg_abort_rate(0.211376)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=8
+RESULT throughput(982.368),agg_abort_rate(0.143873)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=8
+RESULT throughput(950.145),agg_abort_rate(0.214722)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=12
+RESULT throughput(217645),agg_abort_rate(0.0078855)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=12
+RESULT throughput(210058),agg_abort_rate(0.00791682)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=12
+RESULT throughput(139561),agg_abort_rate(0.00788555)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=12
+RESULT throughput(213250),agg_abort_rate(0.00798048)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=12
+RESULT throughput(218151),agg_abort_rate(0.00791478)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=12
+RESULT throughput(207871),agg_abort_rate(0.00785467)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=12
+RESULT throughput(214822),agg_abort_rate(0.00799394)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=12
+RESULT throughput(137943),agg_abort_rate(0.00756128)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=12
+RESULT throughput(188077),agg_abort_rate(0.00766591)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=12
+RESULT throughput(201715),agg_abort_rate(0.00756057)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=16
+RESULT throughput(8447.59),agg_abort_rate(0.0426887)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=16
+RESULT throughput(6384.11),agg_abort_rate(0.0519926)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=16
+RESULT throughput(6600.94),agg_abort_rate(0.0489982)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=16
+RESULT throughput(9119.86),agg_abort_rate(0.0404542)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=16
+RESULT throughput(7511.24),agg_abort_rate(0.0495146)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=16
+RESULT throughput(5624.24),agg_abort_rate(0.0519775)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=16
+RESULT throughput(5543.83),agg_abort_rate(0.0554193)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=16
+RESULT throughput(9630.04),agg_abort_rate(0.0383593)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=16
+RESULT throughput(7876.59),agg_abort_rate(0.0447841)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=16
+RESULT throughput(7739.45),agg_abort_rate(0.0499434)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=20
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=20
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=20
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=20
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=20
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=20
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=20
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=20
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=20
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=20
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=24
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=24
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=24
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=24
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=24
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=24
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=24
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=24
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=24
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=24
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=28
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=28
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=28
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=28
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=28
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=28
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=28
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=28
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=28
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=28
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=32
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=32
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=32
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=32
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=32
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=32
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=32
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=32
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=32
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=32
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=36
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=36
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=36
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=36
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=36
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=36
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=36
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=36
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=36
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=36
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=40
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=40
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=40
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=40
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=40
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=40
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=40
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=40
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=40
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=40
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=44
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=44
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=44
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=44
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=44
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=44
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=44
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=44
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=44
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=44
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=48
+RESULT throughput(737998),agg_abort_rate(4.57612e-05)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=48
+RESULT throughput(739879),agg_abort_rate(4.57692e-05)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=48
+RESULT throughput(736399),agg_abort_rate(4.73142e-05)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=48
+RESULT throughput(742752),agg_abort_rate(4.22268e-05)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=48
+RESULT throughput(741186),agg_abort_rate(4.36553e-05)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=48
+RESULT throughput(740891),agg_abort_rate(4.23177e-05)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=48
+RESULT throughput(742079),agg_abort_rate(4.14419e-05)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=48
+RESULT throughput(736066),agg_abort_rate(4.34649e-05)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=48
+RESULT throughput(744401),agg_abort_rate(4.30614e-05)
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=48
+RESULT throughput(742089),agg_abort_rate(4.49065e-05)
+tpc-c figure4(a,b) Silo
+tpc-c. cc=Silo. num-threads=48, warehouse-num=1
+RESULT throughput(36823.5),agg_abort_rate(0.409364)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=1
+RESULT throughput(30998),agg_abort_rate(0.404614)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=1
+RESULT throughput(29542.2),agg_abort_rate(0.414445)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=1
+RESULT throughput(35173.4),agg_abort_rate(0.40958)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=1
+RESULT throughput(36429.6),agg_abort_rate(0.404915)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=1
+RESULT throughput(32452.6),agg_abort_rate(0.414768)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=1
+RESULT throughput(33057.8),agg_abort_rate(0.409969)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=1
+RESULT throughput(31663.3),agg_abort_rate(0.422166)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=1
+RESULT throughput(33004.8),agg_abort_rate(0.414433)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=1
+RESULT throughput(30125.1),agg_abort_rate(0.406553)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=2
+RESULT throughput(64506.7),agg_abort_rate(0.36711)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=2
+RESULT throughput(60525.4),agg_abort_rate(0.358632)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=2
+RESULT throughput(63821.8),agg_abort_rate(0.356955)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=2
+RESULT throughput(63591.4),agg_abort_rate(0.366312)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=2
+RESULT throughput(66301.5),agg_abort_rate(0.365428)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=2
+RESULT throughput(56828.4),agg_abort_rate(0.364098)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=2
+RESULT throughput(57353.7),agg_abort_rate(0.363752)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=2
+RESULT throughput(68361.8),agg_abort_rate(0.37197)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=2
+RESULT throughput(68636.9),agg_abort_rate(0.36924)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=2
+RESULT throughput(60357.6),agg_abort_rate(0.36272)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=4
+RESULT throughput(133313),agg_abort_rate(0.306361)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=4
+RESULT throughput(123586),agg_abort_rate(0.301323)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=4
+RESULT throughput(106157),agg_abort_rate(0.312711)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=4
+RESULT throughput(136028),agg_abort_rate(0.30687)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=4
+RESULT throughput(129579),agg_abort_rate(0.306071)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=4
+RESULT throughput(116821),agg_abort_rate(0.301442)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=4
+RESULT throughput(125967),agg_abort_rate(0.309675)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=4
+RESULT throughput(127525),agg_abort_rate(0.302909)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=4
+RESULT throughput(138223),agg_abort_rate(0.313547)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=4
+RESULT throughput(138882),agg_abort_rate(0.29903)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=8
+RESULT throughput(242102),agg_abort_rate(0.230289)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=8
+RESULT throughput(271190),agg_abort_rate(0.237093)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=8
+RESULT throughput(251194),agg_abort_rate(0.235792)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=8
+RESULT throughput(194367),agg_abort_rate(0.233605)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=8
+RESULT throughput(268411),agg_abort_rate(0.23681)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=8
+RESULT throughput(266872),agg_abort_rate(0.23577)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=8
+RESULT throughput(183273),agg_abort_rate(0.228694)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=8
+RESULT throughput(264719),agg_abort_rate(0.234614)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=8
+RESULT throughput(252468),agg_abort_rate(0.233469)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=8
+RESULT throughput(238497),agg_abort_rate(0.233375)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=12
+RESULT throughput(365219),agg_abort_rate(0.207318)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=12
+RESULT throughput(380790),agg_abort_rate(0.209409)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=12
+RESULT throughput(346738),agg_abort_rate(0.206424)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=12
+RESULT throughput(325326),agg_abort_rate(0.20511)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=12
+RESULT throughput(343078),agg_abort_rate(0.204042)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=12
+RESULT throughput(340917),agg_abort_rate(0.206834)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=12
+RESULT throughput(313449),agg_abort_rate(0.199734)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=12
+RESULT throughput(346040),agg_abort_rate(0.203099)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=12
+RESULT throughput(348895),agg_abort_rate(0.200504)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=12
+RESULT throughput(354528),agg_abort_rate(0.207621)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=16
+RESULT throughput(439009),agg_abort_rate(0.137778)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=16
+RESULT throughput(446004),agg_abort_rate(0.133874)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=16
+RESULT throughput(443975),agg_abort_rate(0.137954)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=16
+RESULT throughput(439455),agg_abort_rate(0.136485)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=16
+RESULT throughput(457522),agg_abort_rate(0.137873)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=16
+RESULT throughput(452752),agg_abort_rate(0.136397)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=16
+RESULT throughput(427352),agg_abort_rate(0.136409)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=16
+RESULT throughput(445103),agg_abort_rate(0.13823)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=16
+RESULT throughput(444546),agg_abort_rate(0.139502)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=16
+RESULT throughput(426162),agg_abort_rate(0.132402)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=20
+RESULT throughput(517400),agg_abort_rate(0.138997)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=20
+RESULT throughput(516484),agg_abort_rate(0.135615)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=20
+RESULT throughput(513836),agg_abort_rate(0.138015)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=20
+RESULT throughput(473646),agg_abort_rate(0.136951)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=20
+RESULT throughput(519834),agg_abort_rate(0.139664)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=20
+RESULT throughput(522749),agg_abort_rate(0.139358)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=20
+RESULT throughput(511874),agg_abort_rate(0.137109)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=20
+RESULT throughput(464657),agg_abort_rate(0.134219)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=20
+RESULT throughput(451421),agg_abort_rate(0.137602)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=20
+RESULT throughput(498178),agg_abort_rate(0.139637)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=24
+RESULT throughput(585366),agg_abort_rate(0.113675)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=24
+RESULT throughput(599146),agg_abort_rate(0.113691)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=24
+RESULT throughput(589870),agg_abort_rate(0.11396)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=24
+RESULT throughput(586807),agg_abort_rate(0.113816)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=24
+RESULT throughput(591499),agg_abort_rate(0.114568)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=24
+RESULT throughput(585707),agg_abort_rate(0.114393)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=24
+RESULT throughput(606899),agg_abort_rate(0.113998)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=24
+RESULT throughput(581035),agg_abort_rate(0.113911)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=24
+RESULT throughput(586443),agg_abort_rate(0.114401)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=24
+RESULT throughput(587261),agg_abort_rate(0.113605)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=28
+RESULT throughput(634121),agg_abort_rate(0.0758867)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=28
+RESULT throughput(641470),agg_abort_rate(0.0758319)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=28
+RESULT throughput(645762),agg_abort_rate(0.0756395)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=28
+RESULT throughput(648067),agg_abort_rate(0.0762292)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=28
+RESULT throughput(642577),agg_abort_rate(0.07526)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=28
+RESULT throughput(647059),agg_abort_rate(0.0763383)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=28
+RESULT throughput(647555),agg_abort_rate(0.0760672)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=28
+RESULT throughput(658421),agg_abort_rate(0.0765939)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=28
+RESULT throughput(643328),agg_abort_rate(0.075815)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=28
+RESULT throughput(641702),agg_abort_rate(0.0761392)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=32
+RESULT throughput(669121),agg_abort_rate(0.00570089)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=32
+RESULT throughput(651954),agg_abort_rate(0.00575023)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=32
+RESULT throughput(656002),agg_abort_rate(0.00580451)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=32
+RESULT throughput(658210),agg_abort_rate(0.00567352)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=32
+RESULT throughput(652455),agg_abort_rate(0.00585117)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=32
+RESULT throughput(656072),agg_abort_rate(0.00582879)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=32
+RESULT throughput(655014),agg_abort_rate(0.00538791)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=32
+RESULT throughput(643540),agg_abort_rate(0.00541081)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=32
+RESULT throughput(651923),agg_abort_rate(0.00544198)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=32
+RESULT throughput(655615),agg_abort_rate(0.00534816)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=36
+RESULT throughput(721938),agg_abort_rate(0.0307428)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=36
+RESULT throughput(718591),agg_abort_rate(0.0309731)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=36
+RESULT throughput(717962),agg_abort_rate(0.0311851)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=36
+RESULT throughput(722009),agg_abort_rate(0.030613)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=36
+RESULT throughput(718736),agg_abort_rate(0.0308876)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=36
+RESULT throughput(723584),agg_abort_rate(0.0294808)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=36
+RESULT throughput(725075),agg_abort_rate(0.0319272)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=36
+RESULT throughput(722673),agg_abort_rate(0.0311939)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=36
+RESULT throughput(716617),agg_abort_rate(0.029046)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=36
+RESULT throughput(717305),agg_abort_rate(0.0311649)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=40
+RESULT throughput(741687),agg_abort_rate(0.0191164)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=40
+RESULT throughput(769698),agg_abort_rate(0.0198062)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=40
+RESULT throughput(751805),agg_abort_rate(0.0190478)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=40
+RESULT throughput(742325),agg_abort_rate(0.0197695)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=40
+RESULT throughput(745782),agg_abort_rate(0.0200374)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=40
+RESULT throughput(739513),agg_abort_rate(0.0192156)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=40
+RESULT throughput(744861),agg_abort_rate(0.02058)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=40
+RESULT throughput(749988),agg_abort_rate(0.0205448)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=40
+RESULT throughput(751428),agg_abort_rate(0.0203011)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=40
+RESULT throughput(747840),agg_abort_rate(0.020437)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=44
+RESULT throughput(779693),agg_abort_rate(0.00999833)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=44
+RESULT throughput(793002),agg_abort_rate(0.00996848)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=44
+RESULT throughput(784772),agg_abort_rate(0.0109079)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=44
+RESULT throughput(784115),agg_abort_rate(0.00946965)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=44
+RESULT throughput(780197),agg_abort_rate(0.0104714)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=44
+RESULT throughput(777960),agg_abort_rate(0.010201)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=44
+RESULT throughput(779008),agg_abort_rate(0.0102116)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=44
+RESULT throughput(781132),agg_abort_rate(0.0102826)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=44
+RESULT throughput(773569),agg_abort_rate(0.0102336)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=44
+RESULT throughput(780769),agg_abort_rate(0.0101577)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=48
+RESULT throughput(830029),agg_abort_rate(3.53338e-05)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=48
+RESULT throughput(829007),agg_abort_rate(3.66273e-05)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=48
+RESULT throughput(826971),agg_abort_rate(3.71205e-05)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=48
+RESULT throughput(827062),agg_abort_rate(3.45776e-05)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=48
+RESULT throughput(812420),agg_abort_rate(3.51925e-05)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=48
+RESULT throughput(827312),agg_abort_rate(3.68214e-05)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=48
+RESULT throughput(819224),agg_abort_rate(3.45831e-05)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=48
+RESULT throughput(826062),agg_abort_rate(3.51018e-05)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=48
+RESULT throughput(831137),agg_abort_rate(3.67339e-05)
+tpc-c. cc=Silo. num-threads=48, warehouse-num=48
+RESULT throughput(824932),agg_abort_rate(3.80085e-05)
+tpc-c figure4(a,b) 2PL
+tpc-c. cc=2PL. num-threads=48, warehouse-num=1
+RESULT throughput(2464.6),agg_abort_rate(0)
+tpc-c. cc=2PL. num-threads=48, warehouse-num=1
+RESULT throughput(1970.54),agg_abort_rate(0)
+tpc-c. cc=2PL. num-threads=48, warehouse-num=1
+RESULT throughput(2098.58),agg_abort_rate(0)
+tpc-c. cc=2PL. num-threads=48, warehouse-num=1
+RESULT throughput(3182.7),agg_abort_rate(0)
+tpc-c. cc=2PL. num-threads=48, warehouse-num=1
+RESULT throughput(2661.32),agg_abort_rate(0)
+tpc-c. cc=2PL. num-threads=48, warehouse-num=1
+RESULT throughput(1744.66),agg_abort_rate(0)
+tpc-c. cc=2PL. num-threads=48, warehouse-num=1
+RESULT throughput(2133.98),agg_abort_rate(0)
+tpc-c. cc=2PL. num-threads=48, warehouse-num=1
+RESULT throughput(2598.37),agg_abort_rate(0)
+tpc-c. cc=2PL. num-threads=48, warehouse-num=1
+RESULT throughput(2334.28),agg_abort_rate(0)
+tpc-c. cc=2PL. num-threads=48, warehouse-num=1
+RESULT throughput(2227.53),agg_abort_rate(0)
+tpc-c. cc=2PL. num-threads=48, warehouse-num=2
+RESULT throughput(8143.51),agg_abort_rate(0)
+tpc-c. cc=2PL. num-threads=48, warehouse-num=2
+RESULT throughput(5710.67),agg_abort_rate(0)
+tpc-c. cc=2PL. num-threads=48, warehouse-num=2
+RESULT throughput(3926.36),agg_abort_rate(8.47041e-06)
+tpc-c. cc=2PL. num-threads=48, warehouse-num=2
+RESULT throughput(2582.54),agg_abort_rate(0)
+tpc-c. cc=2PL. num-threads=48, warehouse-num=2
+RESULT throughput(6165.49),agg_abort_rate(0)
+tpc-c. cc=2PL. num-threads=48, warehouse-num=2
+RESULT throughput(5475.54),agg_abort_rate(0)
+tpc-c. cc=2PL. num-threads=48, warehouse-num=2
+RESULT throughput(5032.63),agg_abort_rate(0)
+tpc-c. cc=2PL. num-threads=48, warehouse-num=2
+RESULT throughput(4627.97),agg_abort_rate(0)
+tpc-c. cc=2PL. num-threads=48, warehouse-num=2
+RESULT throughput(6221.62),agg_abort_rate(0)
+tpc-c. cc=2PL. num-threads=48, warehouse-num=2
+RESULT throughput(5133.7),agg_abort_rate(0)
+tpc-c. cc=2PL. num-threads=48, warehouse-num=4
+RESULT throughput(11772.6),agg_abort_rate(0)
+tpc-c. cc=2PL. num-threads=48, warehouse-num=4
+RESULT throughput(11804.9),agg_abort_rate(0)
+tpc-c. cc=2PL. num-threads=48, warehouse-num=4
+RESULT throughput(11370.6),agg_abort_rate(0)
+tpc-c. cc=2PL. num-threads=48, warehouse-num=4
+RESULT throughput(11893),agg_abort_rate(0)
+tpc-c. cc=2PL. num-threads=48, warehouse-num=4
+RESULT throughput(15894.9),agg_abort_rate(0)
+tpc-c. cc=2PL. num-threads=48, warehouse-num=4
+RESULT throughput(11373.8),agg_abort_rate(0)
+tpc-c. cc=2PL. num-threads=48, warehouse-num=4
+RESULT throughput(11901.5),agg_abort_rate(0)
+tpc-c. cc=2PL. num-threads=48, warehouse-num=4
+RESULT throughput(14262.9),agg_abort_rate(0)
+tpc-c. cc=2PL. num-threads=48, warehouse-num=4
+RESULT throughput(13869.9),agg_abort_rate(0)
+tpc-c. cc=2PL. num-threads=48, warehouse-num=4
+RESULT throughput(14367.3),agg_abort_rate(0)
+tpc-c. cc=2PL. num-threads=48, warehouse-num=8
+RESULT throughput(13554.1),agg_abort_rate(0)
+tpc-c. cc=2PL. num-threads=48, warehouse-num=8
+RESULT throughput(12181),agg_abort_rate(0)
+tpc-c. cc=2PL. num-threads=48, warehouse-num=8
+RESULT throughput(14311.9),agg_abort_rate(0)
+tpc-c. cc=2PL. num-threads=48, warehouse-num=8
+RESULT throughput(12300.4),agg_abort_rate(0)
+tpc-c. cc=2PL. num-threads=48, warehouse-num=8
+RESULT throughput(11245.9),agg_abort_rate(0)
+tpc-c. cc=2PL. num-threads=48, warehouse-num=8
+RESULT throughput(12355.7),agg_abort_rate(0)
+tpc-c. cc=2PL. num-threads=48, warehouse-num=8
+RESULT throughput(11611.7),agg_abort_rate(0)
+tpc-c. cc=2PL. num-threads=48, warehouse-num=8
+RESULT throughput(11937.8),agg_abort_rate(0)
+tpc-c. cc=2PL. num-threads=48, warehouse-num=8
+RESULT throughput(12348.5),agg_abort_rate(0)
+tpc-c. cc=2PL. num-threads=48, warehouse-num=8
+RESULT throughput(10271.7),agg_abort_rate(0)
+tpc-c. cc=2PL. num-threads=48, warehouse-num=16
+RESULT throughput(6149.53),agg_abort_rate(0)
+tpc-c. cc=2PL. num-threads=48, warehouse-num=16
+RESULT throughput(6858.66),agg_abort_rate(0)
+tpc-c. cc=2PL. num-threads=48, warehouse-num=16
+RESULT throughput(6475.55),agg_abort_rate(0)
+tpc-c. cc=2PL. num-threads=48, warehouse-num=16
+RESULT throughput(6660.67),agg_abort_rate(0)
+tpc-c. cc=2PL. num-threads=48, warehouse-num=16
+RESULT throughput(7176.2),agg_abort_rate(0)
+tpc-c. cc=2PL. num-threads=48, warehouse-num=16
+RESULT throughput(7406.99),agg_abort_rate(8.99519e-06)
+tpc-c. cc=2PL. num-threads=48, warehouse-num=16
+RESULT throughput(6769.31),agg_abort_rate(0)
+tpc-c. cc=2PL. num-threads=48, warehouse-num=16
+RESULT throughput(6618.14),agg_abort_rate(0)
+tpc-c. cc=2PL. num-threads=48, warehouse-num=16
+RESULT throughput(6428.92),agg_abort_rate(0)
+tpc-c. cc=2PL. num-threads=48, warehouse-num=16
+RESULT throughput(5714.05),agg_abort_rate(0)
+tpc-c. cc=2PL. num-threads=48, warehouse-num=48
+RESULT throughput(589759),agg_abort_rate(0)
+tpc-c. cc=2PL. num-threads=48, warehouse-num=48
+RESULT throughput(583282),agg_abort_rate(0)
+tpc-c. cc=2PL. num-threads=48, warehouse-num=48
+RESULT throughput(576360),agg_abort_rate(0)
+tpc-c. cc=2PL. num-threads=48, warehouse-num=48
+RESULT throughput(583045),agg_abort_rate(0)
+tpc-c. cc=2PL. num-threads=48, warehouse-num=48
+RESULT throughput(581343),agg_abort_rate(0)
+tpc-c. cc=2PL. num-threads=48, warehouse-num=48
+RESULT throughput(587198),agg_abort_rate(5.67284e-08)
+tpc-c. cc=2PL. num-threads=48, warehouse-num=48
+RESULT throughput(583735),agg_abort_rate(5.70864e-08)
+tpc-c. cc=2PL. num-threads=48, warehouse-num=48
+RESULT throughput(588398),agg_abort_rate(0)
+tpc-c. cc=2PL. num-threads=48, warehouse-num=48
+RESULT throughput(586554),agg_abort_rate(0)
+tpc-c. cc=2PL. num-threads=48, warehouse-num=48
+RESULT throughput(586968),agg_abort_rate(0)
+tpc-c figure4(a,b) cormcc
+CormCC performance pick max(2PL,Silo) as its result, refered to Section 7.2 in the paper.
+------ Figure 4(a,b) Evaluation Finish ------
