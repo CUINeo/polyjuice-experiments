@@ -1,0 +1,172 @@
+------ Table 2 Evaluation Start ------
+tpc-c Table 2 Polyjuice
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=1
+Latency - microseconds(µs)
+new_order_p50 latency - 70
+new_order_p90 latency - 63909
+new_order_p99 latency - 640001
+payment_p50 latency - 59
+payment_p90 latency - 63975
+payment_p99 latency - 623958
+delivery_p50 latency - 308
+delivery_p90 latency - 393
+delivery_p99 latency - 593
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=1
+Latency - microseconds(µs)
+new_order_p50 latency - 99
+new_order_p90 latency - 64051
+new_order_p99 latency - 1001017
+payment_p50 latency - 82
+payment_p90 latency - 64609
+payment_p99 latency - 892051
+delivery_p50 latency - 339
+delivery_p90 latency - 454
+delivery_p99 latency - 16337
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=1
+Latency - microseconds(µs)
+new_order_p50 latency - 73
+new_order_p90 latency - 63996
+new_order_p99 latency - 812675
+payment_p50 latency - 61
+payment_p90 latency - 63995
+payment_p99 latency - 728089
+delivery_p50 latency - 312
+delivery_p90 latency - 412
+delivery_p99 latency - 6651
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=1
+Latency - microseconds(µs)
+new_order_p50 latency - 73
+new_order_p90 latency - 63999
+new_order_p99 latency - 768044
+payment_p50 latency - 63
+payment_p90 latency - 64000
+payment_p99 latency - 648008
+delivery_p50 latency - 324
+delivery_p90 latency - 422
+delivery_p99 latency - 6727
+tpc-c. cc=Polyjuice. num-threads=48, warehouse-num=1
+Latency - microseconds(µs)
+new_order_p50 latency - 68
+new_order_p90 latency - 63225
+new_order_p99 latency - 568034
+payment_p50 latency - 61
+payment_p90 latency - 63969
+payment_p99 latency - 516813
+delivery_p50 latency - 306
+delivery_p90 latency - 394
+delivery_p99 latency - 728
+tpc-c Table 2 Silo
+tpc-c. cc=Silo. num-threads=48, warehouse-num=1
+Latency - microseconds(µs)
+new_order_p50 latency - 40
+new_order_p90 latency - 171
+new_order_p99 latency - 28810
+payment_p50 latency - 9
+payment_p90 latency - 18
+payment_p99 latency - 50
+delivery_p50 latency - 182
+delivery_p90 latency - 226
+delivery_p99 latency - 7596
+tpc-c. cc=Silo. num-threads=48, warehouse-num=1
+Latency - microseconds(µs)
+new_order_p50 latency - 40
+new_order_p90 latency - 169
+new_order_p99 latency - 25219
+payment_p50 latency - 9
+payment_p90 latency - 19
+payment_p99 latency - 50
+delivery_p50 latency - 183
+delivery_p90 latency - 225
+delivery_p99 latency - 7099
+tpc-c. cc=Silo. num-threads=48, warehouse-num=1
+Latency - microseconds(µs)
+new_order_p50 latency - 40
+new_order_p90 latency - 167
+new_order_p99 latency - 26026
+payment_p50 latency - 9
+payment_p90 latency - 18
+payment_p99 latency - 49
+delivery_p50 latency - 182
+delivery_p90 latency - 221
+delivery_p99 latency - 1584
+tpc-c. cc=Silo. num-threads=48, warehouse-num=1
+Latency - microseconds(µs)
+new_order_p50 latency - 40
+new_order_p90 latency - 163
+new_order_p99 latency - 24707
+payment_p50 latency - 9
+payment_p90 latency - 18
+payment_p99 latency - 48
+delivery_p50 latency - 182
+delivery_p90 latency - 220
+delivery_p99 latency - 1846
+tpc-c. cc=Silo. num-threads=48, warehouse-num=1
+Latency - microseconds(µs)
+new_order_p50 latency - 41
+new_order_p90 latency - 177
+new_order_p99 latency - 30014
+payment_p50 latency - 9
+payment_p90 latency - 18
+payment_p99 latency - 50
+delivery_p50 latency - 182
+delivery_p90 latency - 222
+delivery_p99 latency - 1124
+tpc-c Table 2 2PL
+tpc-c. cc=2PL. num-threads=48, warehouse-num=1
+Latency - microseconds(µs)
+new_order_p50 latency - 56
+new_order_p90 latency - 120
+new_order_p99 latency - 27530
+payment_p50 latency - 37
+payment_p90 latency - 3031
+payment_p99 latency - 35216
+delivery_p50 latency - 272
+delivery_p90 latency - 517
+delivery_p99 latency - 16275
+tpc-c. cc=2PL. num-threads=48, warehouse-num=1
+Latency - microseconds(µs)
+new_order_p50 latency - 60
+new_order_p90 latency - 1879
+new_order_p99 latency - 32109
+payment_p50 latency - 43
+payment_p90 latency - 12866
+payment_p99 latency - 61876
+delivery_p50 latency - 283
+delivery_p90 latency - 538
+delivery_p99 latency - 16544
+tpc-c. cc=2PL. num-threads=48, warehouse-num=1
+Latency - microseconds(µs)
+new_order_p50 latency - 58
+new_order_p90 latency - 181
+new_order_p99 latency - 32072
+payment_p50 latency - 40
+payment_p90 latency - 10572
+payment_p99 latency - 63947
+delivery_p50 latency - 288
+delivery_p90 latency - 645
+delivery_p99 latency - 22642
+tpc-c. cc=2PL. num-threads=48, warehouse-num=1
+Latency - microseconds(µs)
+new_order_p50 latency - 56
+new_order_p90 latency - 128
+new_order_p99 latency - 31480
+payment_p50 latency - 37
+payment_p90 latency - 4993
+payment_p99 latency - 37813
+delivery_p50 latency - 273
+delivery_p90 latency - 541
+delivery_p99 latency - 19377
+tpc-c. cc=2PL. num-threads=48, warehouse-num=1
+Latency - microseconds(µs)
+new_order_p50 latency - 56
+new_order_p90 latency - 131
+new_order_p99 latency - 34159
+payment_p50 latency - 38
+payment_p90 latency - 10706
+payment_p99 latency - 69102
+delivery_p50 latency - 279
+delivery_p90 latency - 503
+delivery_p99 latency - 23676
+tpc-c Table 2 cormcc
+CormCC performance pick max(2PL,Silo) as its result, so CormCC latency goes to  refered to Section 7.2 in the paper.
+------ Table 2 Evaluation Finish ------
