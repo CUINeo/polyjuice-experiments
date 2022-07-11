@@ -1,0 +1,112 @@
+------ Figure 6(a,b) Evaluation Start ------
+tpc-c figure6(a) high contention [occ policy]
+tpc-c. setting=[occ policy]. num-threads=48, warehouse-num=1
+RESULT throughput(36118),agg_abort_rate(0.248705)
+tpc-c. setting=[occ policy]. num-threads=48, warehouse-num=1
+RESULT throughput(35600.8),agg_abort_rate(0.25112)
+tpc-c. setting=[occ policy]. num-threads=48, warehouse-num=1
+RESULT throughput(36641.5),agg_abort_rate(0.24965)
+tpc-c. setting=[occ policy]. num-threads=48, warehouse-num=1
+RESULT throughput(36278.7),agg_abort_rate(0.251041)
+tpc-c. setting=[occ policy]. num-threads=48, warehouse-num=1
+RESULT throughput(34753.7),agg_abort_rate(0.253329)
+tpc-c figure6(b) moderate contention [occ policy]
+tpc-c. setting=[occ policy]. num-threads=48, warehouse-num=8
+RESULT throughput(283076),agg_abort_rate(0.179478)
+tpc-c. setting=[occ policy]. num-threads=48, warehouse-num=8
+RESULT throughput(240710),agg_abort_rate(0.189391)
+tpc-c. setting=[occ policy]. num-threads=48, warehouse-num=8
+RESULT throughput(255494),agg_abort_rate(0.174233)
+tpc-c. setting=[occ policy]. num-threads=48, warehouse-num=8
+RESULT throughput(292004),agg_abort_rate(0.185565)
+tpc-c. setting=[occ policy]. num-threads=48, warehouse-num=8
+RESULT throughput(259140),agg_abort_rate(0.174974)
+tpc-c figure6(a) high contention [+ early validation]
+tpc-c. setting=[+ early validation]. num-threads=48, warehouse-num=1
+RESULT throughput(43333.5),agg_abort_rate(0.288421)
+tpc-c. setting=[+ early validation]. num-threads=48, warehouse-num=1
+RESULT throughput(40749.3),agg_abort_rate(0.29647)
+tpc-c. setting=[+ early validation]. num-threads=48, warehouse-num=1
+RESULT throughput(46859),agg_abort_rate(0.293779)
+tpc-c. setting=[+ early validation]. num-threads=48, warehouse-num=1
+RESULT throughput(55136.1),agg_abort_rate(0.288354)
+tpc-c. setting=[+ early validation]. num-threads=48, warehouse-num=1
+RESULT throughput(43880.6),agg_abort_rate(0.295117)
+tpc-c figure6(b) moderate contention [+ early validation]
+tpc-c. setting=[+ early validation]. num-threads=48, warehouse-num=8
+RESULT throughput(223768),agg_abort_rate(0.043289)
+tpc-c. setting=[+ early validation]. num-threads=48, warehouse-num=8
+RESULT throughput(213608),agg_abort_rate(0.0427601)
+tpc-c. setting=[+ early validation]. num-threads=48, warehouse-num=8
+RESULT throughput(210503),agg_abort_rate(0.0425004)
+tpc-c. setting=[+ early validation]. num-threads=48, warehouse-num=8
+RESULT throughput(214266),agg_abort_rate(0.0426515)
+tpc-c. setting=[+ early validation]. num-threads=48, warehouse-num=8
+RESULT throughput(214520),agg_abort_rate(0.0425636)
+tpc-c figure6(a) high contention [+ dirty read & public write]
+tpc-c. setting=[+ dirty read & public write]. num-threads=48, warehouse-num=1
+RESULT throughput(2894.14),agg_abort_rate(0.256149)
+tpc-c. setting=[+ dirty read & public write]. num-threads=48, warehouse-num=1
+RESULT throughput(3157.36),agg_abort_rate(0.263761)
+tpc-c. setting=[+ dirty read & public write]. num-threads=48, warehouse-num=1
+RESULT throughput(2971.12),agg_abort_rate(0.274587)
+tpc-c. setting=[+ dirty read & public write]. num-threads=48, warehouse-num=1
+RESULT throughput(3467.1),agg_abort_rate(0.257136)
+tpc-c. setting=[+ dirty read & public write]. num-threads=48, warehouse-num=1
+RESULT throughput(3349.09),agg_abort_rate(0.230315)
+tpc-c figure6(b) moderate contention [+ dirty read & public write]
+tpc-c. setting=[+ dirty read & public write]. num-threads=48, warehouse-num=8
+RESULT throughput(31916.1),agg_abort_rate(0.0816908)
+tpc-c. setting=[+ dirty read & public write]. num-threads=48, warehouse-num=8
+RESULT throughput(32582),agg_abort_rate(0.0794288)
+tpc-c. setting=[+ dirty read & public write]. num-threads=48, warehouse-num=8
+RESULT throughput(25799.6),agg_abort_rate(0.0822677)
+tpc-c. setting=[+ dirty read & public write]. num-threads=48, warehouse-num=8
+RESULT throughput(39259.7),agg_abort_rate(0.0834358)
+tpc-c. setting=[+ dirty read & public write]. num-threads=48, warehouse-num=8
+RESULT throughput(30283.8),agg_abort_rate(0.0818928)
+tpc-c figure6(a) high contention [+ coarse grained waiting]
+tpc-c. setting=[+ coarse grained waiting]. num-threads=48, warehouse-num=1
+RESULT throughput(14720.9),agg_abort_rate(0.425281)
+tpc-c. setting=[+ coarse grained waiting]. num-threads=48, warehouse-num=1
+RESULT throughput(8918.16),agg_abort_rate(0.370632)
+tpc-c. setting=[+ coarse grained waiting]. num-threads=48, warehouse-num=1
+RESULT throughput(10023),agg_abort_rate(0.379561)
+tpc-c. setting=[+ coarse grained waiting]. num-threads=48, warehouse-num=1
+RESULT throughput(10484.7),agg_abort_rate(0.359698)
+tpc-c. setting=[+ coarse grained waiting]. num-threads=48, warehouse-num=1
+RESULT throughput(7148.72),agg_abort_rate(0.3072)
+tpc-c figure6(b) moderate contention [+ coarse grained waiting]
+tpc-c. setting=[+ coarse grained waiting]. num-threads=48, warehouse-num=8
+RESULT throughput(4385.19),agg_abort_rate(0.0695829)
+tpc-c. setting=[+ coarse grained waiting]. num-threads=48, warehouse-num=8
+RESULT throughput(3936.1),agg_abort_rate(0.0998455)
+tpc-c. setting=[+ coarse grained waiting]. num-threads=48, warehouse-num=8
+RESULT throughput(5138.19),agg_abort_rate(0.085743)
+tpc-c. setting=[+ coarse grained waiting]. num-threads=48, warehouse-num=8
+RESULT throughput(5262.18),agg_abort_rate(0.0837694)
+tpc-c. setting=[+ coarse grained waiting]. num-threads=48, warehouse-num=8
+RESULT throughput(5337.33),agg_abort_rate(0.0801745)
+tpc-c figure6(a) high contention [+ fine grained waiting]
+tpc-c. setting=[+ fine grained waiting]. num-threads=48, warehouse-num=1
+RESULT throughput(514.114),agg_abort_rate(0.121063)
+tpc-c. setting=[+ fine grained waiting]. num-threads=48, warehouse-num=1
+RESULT throughput(639.819),agg_abort_rate(0.108343)
+tpc-c. setting=[+ fine grained waiting]. num-threads=48, warehouse-num=1
+RESULT throughput(456.594),agg_abort_rate(0.132456)
+tpc-c. setting=[+ fine grained waiting]. num-threads=48, warehouse-num=1
+RESULT throughput(669.85),agg_abort_rate(0.09886)
+tpc-c. setting=[+ fine grained waiting]. num-threads=48, warehouse-num=1
+RESULT throughput(672.61),agg_abort_rate(0.102593)
+tpc-c figure6(b) moderate contention [+ fine grained waiting]
+tpc-c. setting=[+ fine grained waiting]. num-threads=48, warehouse-num=8
+RESULT throughput(77573.8),agg_abort_rate(0.0245414)
+tpc-c. setting=[+ fine grained waiting]. num-threads=48, warehouse-num=8
+RESULT throughput(80575.9),agg_abort_rate(0.0250557)
+tpc-c. setting=[+ fine grained waiting]. num-threads=48, warehouse-num=8
+RESULT throughput(84051.3),agg_abort_rate(0.0236225)
+tpc-c. setting=[+ fine grained waiting]. num-threads=48, warehouse-num=8
+RESULT throughput(82559.4),agg_abort_rate(0.0231497)
+tpc-c. setting=[+ fine grained waiting]. num-threads=48, warehouse-num=8
+RESULT throughput(80653.1),agg_abort_rate(0.025362)
+------ Figure 6(a,b) Evaluation Finish ------
